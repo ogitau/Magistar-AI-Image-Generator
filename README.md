@@ -1,0 +1,1 @@
+# Magistar-AI-Image-Generator
